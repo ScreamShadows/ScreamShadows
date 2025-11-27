@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy <Tu Nombre>
+# 👋 ¡Hola! Soy Samuel Aguilera
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<tu-usuario>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](<tu_link_linkedin>)
@@ -9,9 +9,9 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo en: **<proyecto actual / área>**
-- 🌱 Estoy aprendiendo: **<tecnologías que estás aprendiendo>**
-- 💬 Me interesa: **<temas que te gustan: backend, data, frontend, IA, etc.>**
+- 🔭 Actualmente trabajo en: **Laravel y Angular**
+- 🌱 Estoy aprendiendo: **Ionic**
+- 💬 Me interesa: **Backend, Fronted y Móvil**
 - 🎯 Objetivo: **<tu objetivo profesional / lo que buscas>**
 - ⚡ Fun fact: **<algo corto y personal>**
 
@@ -20,27 +20,27 @@
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes
-- 💡 <Ej: JavaScript, TypeScript, Python, Java, C#, etc.>
+- 💡 JavaScript, TypeScript, PHP, Dart, Java, SQL, Swift.
 
 ### Frontend
-- <Ej: React, Vue, Angular, HTML, CSS, Tailwind, etc.>
+- Angular, Flutter, Ionic, VueJs.
 
 ### Backend
-- <Ej: Node.js, Express, Django, Spring Boot, .NET, etc.>
+- Node.js, Express, Laravel.
 
 ### Bases de datos
-- <Ej: PostgreSQL, MySQL, MongoDB, Redis, etc.>
+- PostgreSQL, MySQL, SQL, Firebird, Firebase.
 
 ### Otros
-- <Ej: Git, GitHub, Docker, Linux, AWS, etc.>
+- Git, GitHub, Docker, Linux, AWS, Google Cloud.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🔹 <Nombre del proyecto 1>
-- Descripción: <Breve descripción del proyecto>
-- Tech: `<React> <Node.js> <PostgreSQL>`  <!-- cambia tech stack -->
+### 🔹 LEXIA
+- Descripción: Aplicación móvil, para despachos legales, con IA para el control de casos.
+- Tech: `Laravel, Flutter, Python`  <!-- cambia tech stack -->
 - Repo: [Ver repositorio](https://github.com/<tu-usuario>/<repo1>)
 
 ### 🔹 <Nombre del proyecto 2>
