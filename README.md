@@ -12,8 +12,6 @@
 - 🔭 Actualmente trabajo en: **Laravel y Angular**
 - 🌱 Estoy aprendiendo: **Ionic**
 - 💬 Me interesa: **Backend, Fronted y Móvil**
-- 🎯 Objetivo: **<tu objetivo profesional / lo que buscas>**
-- ⚡ Fun fact: **<algo corto y personal>**
 
 ---
 
@@ -41,32 +39,7 @@
 ### 🔹 LEXIA
 - Descripción: Aplicación móvil, para despachos legales, con IA para el control de casos.
 - Tech: `Laravel, Flutter, Python`  <!-- cambia tech stack -->
-- Repo: [Ver repositorio](https://github.com/<tu-usuario>/<repo1>)
+<- Repo: [Ver repositorio](https://github.com/<tu-usuario>/<repo1>)>
 
-### 🔹 <Nombre del proyecto 2>
-- Descripción: <Qué hace, problema que resuelve>
-- Tech: `<Python> <FastAPI> <MongoDB>`
-- Repo: [Ver repositorio](https://github.com/<tu-usuario>/<repo2>)
-
-### 🔹 <Nombre del proyecto 3>
-- Descripción: <Breve descripción>
-- Demo: <link si tienes>  
-- Repo: [Ver repositorio](https://github.com/<tu-usuario>/<repo3>)
-
----
-
-## 📊 Estadísticas (opcional)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<tu-usuario>&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<tu-usuario>&layout=compact)
-
----
-
-## 📫 Cómo contactarme
-
-- 📧 Email: <tu correo>
-- 💼 LinkedIn: <tu perfil LinkedIn>
-- 🌐 Portafolio: <tu web si tienes>
 
 ¡Gracias por visitar mi perfil! 😄
